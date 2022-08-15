@@ -1,2 +1,2 @@
 # CS405
-SNHU CS-405: Secure Coding
+Portfolio and reflection for SNHU CS-405: Secure Coding course
